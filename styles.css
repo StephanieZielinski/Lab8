@@ -1,0 +1,25 @@
+h1 {
+  color: Black;
+  text-align: center;
+  text-size: 30px
+  font-family:'Indie Flower',cursive;
+  font-size: 50px;
+
+}
+#receiptContainer {
+  border: solid;
+  border-radius: 30%;
+  margin-left: 450px;
+  margin-right: 450px;
+  padding: 20px;
+  text-align: center;
+  line-height: 1.8;
+  font-family: 'Dancing Script', cursive;
+  font-size: 45px;
+}
+
+body {
+  background-color: #4C7590;*/
+  /*background-image: url(https://cdn.pixabay.com/photo/2015/10/09/16/05/legal-pad-979558_640.png);*/
+  /*background-size: cover;*/
+}
